@@ -46,7 +46,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true&theme=github_dark" alt="PatalJunior's GitHub Stats">
     <br />
-    ![](https://komarev.com/ghpvc/?username=PatalJunior&style=flat&label=PROFILE+VIEWS)
+    <img src="https://komarev.com/ghpvc/?username=PatalJunior&style=flat&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
 
 ## 🔗 Links

@@ -46,7 +46,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true&theme=github_dark" alt="PatalJunior's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=pataljunior.pataljunior&theme=github_dark" alt="visitors">
+    ![](https://komarev.com/ghpvc/?username=PatalJunior&style=flat&label=PROFILE+VIEWS)
 </div>
 
 ## 🔗 Links

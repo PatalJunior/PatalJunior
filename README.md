@@ -42,11 +42,11 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pataljunior&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pataljunior&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&theme=github_dark" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true" alt="PatalJunior's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true&theme=github_dark" alt="PatalJunior's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=pataljunior.pataljunior" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pataljunior.pataljunior&theme=github_dark" alt="visitors">
 </div>
 
 ## 🔗 Links

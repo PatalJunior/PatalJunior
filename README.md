@@ -42,11 +42,8 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pataljunior&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&theme=github_dark" alt="profile trophies" />
+    <img src="https://github-stats-extended.vercel.app/api/?username=pataljunior&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=PatalJunior%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="PatalJunior's GitHub Stats">
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true&theme=github_dark" alt="PatalJunior's GitHub Stats">
-    <br />
-    <img src="https://komarev.com/ghpvc/?username=PatalJunior&style=flat&label=Profile+Views" alt="Profile Views">
 </div>
 
 ## 🔗 Links
